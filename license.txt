@@ -1,3 +1,10 @@
+All the files in each directory are licensed under the terms of the
+license text contained at the beginning of the same file, or if not
+present, under the terms of the license file (license, license.txt,
+copying, etc.) contained in the same directory if it is present, or
+under the same terms of the files in the parent directory otherwise.
+
+-------------------------------------------------------------------
 The MESH CALCULATION PLUGIN source code files are copyrighted
 2006-2017 by Coppelia Robotics GmbH. All rights reserved. 
 
@@ -6,7 +13,7 @@ The MESH CALCULATION PLUGIN is licensed under the terms of EITHER:
   2. MESH CALCULATION PLUGIN educational license (see below)
 
 MESH CALCULATION PLUGIN educational license:
--------------------------------------------------------------------
+============================================
 The MESH CALCULATION PLUGIN educational license applies only to EDUCATIONAL
 ENTITIES composed by following people and institutions:
 
