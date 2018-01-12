@@ -6,7 +6,7 @@ under the same terms of the files in the parent directory otherwise.
 
 -------------------------------------------------------------------
 The MESH CALCULATION PLUGIN source code files are copyrighted
-2006-2017 by Coppelia Robotics GmbH. All rights reserved. 
+2006-2018 by Coppelia Robotics GmbH. All rights reserved. 
 
 The MESH CALCULATION PLUGIN is licensed under the terms of EITHER:
   1. MESH CALCULATION PLUGIN commercial license (contact us for details)
